@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1512, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/contact.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/styleguide.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/globals.css') }}" />
+    <title>Just In Case </title>
+  </head>
+  <body style="margin: 0; background: #070707">
+    <input type="hidden" id="anPageName" name="page" value="landing" />
+    <div class="container-center-horizontal">
+      <div class="landing screen">
+        <div class="flex-row">
+            <a href="index.html"><div class="place inter-bold-white-28px">Home</div></a>
+                <a href="services.html"><div class="services inter-bold-white-28px">Services</div></a>
+                    <a href="about.html"><div class="about inter-bold-white-28px">About</div></a>
+                        <a href="contact.html"><div class="overlap-group"><div class="place-1">Contact</div></a>
+                        </div>
+        </div>
+        <div class="overlap-group1">
+          <img class="tunnel-1" src="{{ url_for('static', filename= 'img/tunnel-1@2x.png') }}" alt="tunnel 1" />
+          <div class="just-in-case valign-text-middle inter-bold-white-58px">Just in case</div>
+        </div>
+        <p class="do-you-need-help-or valign-text-middle inter-light-white-28px">
+          Do you need help or have questions? Please contact us
+        </p>
+        <div class="contactjustincasecom valign-text-middle inter-bold-white-28px">Contact@justincase.com</div>
+      </div>
+    </div>
+  </body>
+</html>

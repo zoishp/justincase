@@ -1,0 +1,681 @@
+/* screen - basic-plan-1-3 */
+
+.basic-plan-1-3 {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 1px none;
+  display: flex;
+  gap: 38px;
+  height: 2258px;
+  width: 1512px;
+}
+
+.basic-plan-1-3 .overlap-group-container {
+  height: 2100px;
+  position: relative;
+  width: 1326px;
+}
+
+.basic-plan-1-3 .overlap-group7 {
+  height: 2100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1326px;
+}
+
+.basic-plan-1-3 .overlap-group3 {
+  height: 46px;
+  left: 1072px;
+  position: absolute;
+  top: 8px;
+  width: 148px;
+}
+
+.basic-plan-1-3 .rectangle-5 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.basic-plan-1-3 .services {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 139px;
+}
+
+.basic-plan-1-3 .overlap-group4 {
+  height: 2100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1308px;
+}
+
+.basic-plan-1-3 .tunnel-1 {
+  height: 298px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 357px;
+}
+
+.basic-plan-1-3 .just-in-case {
+  -webkit-text-stroke: 1px var(--black);
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 115px;
+  width: 340px;
+}
+
+.basic-plan-1-3 .normalizing-we-all-die {
+  -webkit-text-stroke: 1px var(--black);
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 88px;
+  width: 302px;
+}
+
+.basic-plan-1-3 .rectangle-6 {
+  background-color: var(--spray);
+  border: 1px none;
+  border-radius: 20px;
+  height: 1861px;
+  left: 172px;
+  position: absolute;
+  top: 239px;
+  width: 1120px;
+}
+
+.basic-plan-1-3 .basic {
+  height: 253px;
+  left: 689px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 168px;
+  width: 174px;
+}
+
+.basic-plan-1-3 .write-reciever-and-shipping-information {
+  height: 33px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 770px;
+  width: 1038px;
+}
+
+.basic-plan-1-3 .we-will-verify-your-phone-number {
+  height: 33px;
+  left: 252px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 573px;
+  width: 1038px;
+}
+
+.basic-plan-1-3 .pdf-word {
+  height: 33px;
+  left: 270px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1153px;
+  width: 1038px;
+}
+
+.basic-plan-1-3 .pdf-word-1 {
+  height: 33px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1298px;
+  width: 1038px;
+}
+
+.basic-plan-1-3 .passport-or-official {
+  height: 33px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1276px;
+  width: 1038px;
+}
+
+.basic-plan-1-3 .x3-upload-the-letter {
+  height: 82px;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1009px;
+  width: 720px;
+}
+
+.basic-plan-1-3 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 204px;
+  min-height: 661px;
+  position: absolute;
+  top: 1386px;
+  width: 1072px;
+}
+
+.basic-plan-1-3 .x4-enter-date-to-deliver {
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 720px;
+}
+
+.basic-plan-1-3 .shipping-will-take-p {
+  height: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 12px;
+  width: 502px;
+}
+
+.basic-plan-1-3 .overlap-group1 {
+  height: 35px;
+  margin-left: 42px;
+  margin-top: 106px;
+  position: relative;
+  width: 502px;
+}
+
+.basic-plan-1-3 .rectangle-10 {
+  background-color: #c9efec;
+  border: 1px none;
+  border-radius: 20px;
+  height: 35px;
+  left: 154px;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.basic-plan-1-3 .rectangle-9 {
+  background-color: var(--red);
+  border: 1px none;
+  border-radius: 20px;
+  cursor: pointer;
+  height: 35px;
+  left: 155px;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.basic-plan-1-3 .year-optional {
+  height: 25px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  width: 502px;
+}
+
+.basic-plan-1-3 .if-you-prefer-to-del {
+  height: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42px;
+  margin-top: 12px;
+  width: 502px;
+}
+
+.basic-plan-1-3 .x5-agree-on-our-term {
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 31px;
+  width: 720px;
+}
+
+.basic-plan-1-3 .i-agree-my-letter-wi {
+  align-self: center;
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 18.0px;
+  margin-top: 32px;
+  width: 1026px;
+}
+
+.basic-plan-1-3 .overlap-group {
+  height: 36px;
+  margin-left: 196px;
+  margin-top: 27px;
+  position: relative;
+  width: 100px;
+}
+
+.basic-plan-1-3 .rectangle-7 {
+  cursor: pointer;
+  height: 35px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.basic-plan-1-3 .rectangle-8 {
+  background-color: var(--red);
+  border: 1px none;
+  border-radius: 20px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 49px;
+}
+
+.basic-plan-1-3 .overlap-group2 {
+  align-items: flex-end;
+  align-self: center;
+  background-color: #d9d9d95c;
+  border-radius: 20px;
+  display: flex;
+  height: 96px;
+  margin-left: 44.31px;
+  margin-top: 44px;
+  min-width: 815px;
+  padding: 0.0px 46.1px;
+}
+
+.basic-plan-1-3 .upload {
+  height: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 702px;
+}
+
+.basic-plan-1-3 .x2-plan-a-service-for-your-loved-ones {
+  height: 34px;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 701px;
+  width: 720px;
+}
+
+.basic-plan-1-3 .tell-us-who-you-are {
+  height: 34px;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 372px;
+  width: 720px;
+}
+
+.basic-plan-1-3 .group-4 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 822px;
+  width: 705px;
+}
+
+.basic-plan-1-3 .group-9 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 443px;
+  width: 705px;
+}
+
+.basic-plan-1-3 .group-10 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 508px;
+  width: 705px;
+}
+
+.basic-plan-1-3 .group-11 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 612px;
+  width: 705px;
+}
+
+.basic-plan-1-3 .group-6 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 886px;
+  width: 705px;
+}
+
+.basic-plan-1-3 .group-7 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 948px;
+  width: 705px;
+}
+
+.basic-plan-1-3 .group-5 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 257px;
+  position: absolute;
+  top: 1102px;
+  width: 248px;
+}
+
+.basic-plan-1-3 .group-8 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 257px;
+  position: absolute;
+  top: 1225px;
+  width: 248px;
+}
+
+.basic-plan-1-3 .group-12 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 1483px;
+  width: 248px;
+}
+
+.basic-plan-1-3 .recipient-address {
+  height: 44px;
+  left: 270px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 821px;
+  width: 692px;
+}
+
+.basic-plan-1-3 .full-name {
+  height: 44px;
+  left: 262px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 442px;
+  width: 692px;
+}
+
+.basic-plan-1-3 .email {
+  height: 44px;
+  left: 262px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 507px;
+  width: 692px;
+}
+
+.basic-plan-1-3 .phone-number {
+  height: 44px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 611px;
+  width: 692px;
+}
+
+.basic-plan-1-3 .recipient-full-name {
+  height: 44px;
+  left: 271px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 885px;
+  width: 683px;
+}
+
+.basic-plan-1-3 .recipient-email-address {
+  height: 44px;
+  left: 271px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 947px;
+  width: 683px;
+}
+
+.basic-plan-1-3 .letter {
+  height: 44px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1102px;
+  width: 248px;
+}
+
+.basic-plan-1-3 .official-id {
+  height: 44px;
+  left: 257px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1224px;
+  width: 248px;
+}
+
+.basic-plan-1-3 .calendar {
+  height: 44px;
+  left: 249px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1483px;
+  width: 248px;
+}
+
+.basic-plan-1-3 .place {
+  left: 955px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 88px;
+}
+
+.basic-plan-1-3 .about {
+  left: 1238px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 88px;
+}
+
+.basic-plan-1-3 .overlap-group5 {
+  height: 1505px;
+  left: 1314px;
+  position: absolute;
+  top: 474px;
+  width: 12px;
+}
+
+.basic-plan-1-3 .rectangle-9-1 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 673px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.basic-plan-1-3 .rectangle-10-1 {
+  background-color: var(--alto-2);
+  border: 1px none;
+  border-radius: 20px;
+  height: 1328px;
+  left: 0;
+  position: absolute;
+  top: 177px;
+  width: 10px;
+}
+
+.basic-plan-1-3 .place-1 {
+    left: 1350px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+    width: 88px;
+}
+
+.basic-plan-1-3 .basic1 {
+  height: 150px;
+  text-align: center;
+}
+
+.basic-plan-1-3 .basic1form {
+    height: 150px;
+    text-align: left;
+    margin-left: 25px;
+    width: 90%;
+    line-height: 25px;
+    color: #FFFF;
+    font-family: "Inter";
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}

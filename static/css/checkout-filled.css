@@ -1,0 +1,375 @@
+/* screen - checkout-filled */
+
+.checkout-filled {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 1px none;
+  display: flex;
+  gap: 38px;
+  height: 982px;
+  width: 1512px;
+}
+
+.checkout-filled .overlap-group4 {
+  height: 936px;
+  position: relative;
+  width: 1326px;
+}
+
+.checkout-filled .overlap-group5 {
+  height: 936px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1326px;
+}
+
+.checkout-filled .overlap-group3 {
+  height: 46px;
+  left: 1072px;
+  position: absolute;
+  top: 8px;
+  width: 148px;
+}
+
+.checkout-filled .rectangle-5 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.checkout-filled .services {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 139px;
+}
+
+.checkout-filled .overlap-group2 {
+  height: 936px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1292px;
+}
+
+.checkout-filled .tunnel-1 {
+  height: 298px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 357px;
+}
+
+.checkout-filled .just-in-case {
+  -webkit-text-stroke: 1px var(--black);
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 115px;
+  width: 340px;
+}
+
+.checkout-filled .normalizing-we-all-die {
+  -webkit-text-stroke: 1px var(--black);
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 88px;
+  width: 302px;
+}
+
+.checkout-filled .overlap-group {
+  height: 672px;
+  left: 106px;
+  position: absolute;
+  top: 264px;
+  width: 1176px;
+}
+
+.checkout-filled .rectangle-3 {
+  background-color: #75b2af;
+  border: 1px none;
+  border-radius: 20px;
+  height: 505px;
+  left: 137px;
+  position: absolute;
+  top: 93px;
+  width: 465px;
+}
+
+.checkout-filled .rectangle-7 {
+  background-color: var(--black);
+  border: 1px none;
+  border-radius: 20px;
+  height: 505px;
+  left: 637px;
+  position: absolute;
+  top: 93px;
+  width: 465px;
+}
+
+.checkout-filled .rectangle-6 {
+  background-color: #87f7f061;
+  border: 1px none;
+  border-radius: 20px;
+  height: 672px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 1120px;
+}
+
+.checkout-filled .checkout {
+  height: 89px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 93px;
+  width: 702px;
+}
+
+.checkout-filled .card-number {
+  height: 36px;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 310px;
+}
+
+.checkout-filled .card-holder-name {
+  height: 36px;
+  left: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 205px;
+}
+
+.checkout-filled .expiration-date-mmyy {
+  height: 36px;
+  left: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 403px;
+}
+
+.checkout-filled .cvv {
+  height: 36px;
+  left: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 508px;
+}
+
+.checkout-filled .overlap-group1 {
+  align-items: center;
+  background-color: var(--spray);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: 743px;
+  min-height: 505px;
+  padding: 19.5px 59.6px;
+  position: absolute;
+  top: 357px;
+  width: 465px;
+}
+
+.checkout-filled .basic {
+  align-self: flex-start;
+  height: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 341px;
+}
+
+.checkout-filled .address {
+  height: 226px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4.26px;
+  margin-top: 24px;
+  width: 301px;
+}
+
+.checkout-filled .span1 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.checkout-filled .rectangle-7-1 {
+  background-color: #444650b2;
+  border: 1px none;
+  border-radius: 20px;
+  cursor: pointer;
+  height: 82px;
+  margin-left: 11.0px;
+  margin-top: 53px;
+  width: 318px;
+}
+
+.checkout-filled .check-out {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: 25px;
+  font-weight: 700;
+  height: 62px;
+  left: 834px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 758px;
+  width: 293px;
+}
+
+.checkout-filled .rectangle-10 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 50px;
+  left: 254px;
+  position: absolute;
+  top: 506px;
+  width: 377px;
+}
+
+.checkout-filled .rectangle-11 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 50px;
+  left: 254px;
+  position: absolute;
+  top: 617px;
+  width: 377px;
+}
+
+.checkout-filled .rectangle-12 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 50px;
+  left: 254px;
+  position: absolute;
+  top: 716px;
+  width: 189px;
+}
+
+.checkout-filled .rectangle-13 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 43px;
+  left: 254px;
+  position: absolute;
+  top: 808px;
+  width: 189px;
+}
+
+.checkout-filled .name {
+  height: 39px;
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 516px;
+  width: 365px;
+}
+
+.checkout-filled .text {
+  height: 39px;
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 720px;
+  width: 365px;
+}
+
+.checkout-filled .number {
+  height: 39px;
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.2;
+  position: absolute;
+  top: 810px;
+  width: 365px;
+}
+
+.checkout-filled .text-3 {
+  height: 39px;
+  left: 254px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 626px;
+  width: 290px;
+}
+
+.checkout-filled .place {
+  left: 955px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 88px;
+}
+
+.checkout-filled .about {
+  left: 1238px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 88px;
+}
+
+.checkout-filled .rectangle-9 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 132px;
+  left: 1314px;
+  position: absolute;
+  top: 617px;
+  width: 10px;
+}
+
+.checkout-filled .place-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 39px;
+  width: 126px;
+}

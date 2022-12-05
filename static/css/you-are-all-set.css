@@ -1,0 +1,223 @@
+/* screen - you-are-all-set */
+
+.you-are-all-set {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 1px none;
+  display: flex;
+  height: 982px;
+  width: 1512px;
+}
+
+.you-are-all-set .overlap-group5 {
+  height: 965px;
+  position: relative;
+  width: 1490px;
+}
+
+.you-are-all-set .overlap-group4 {
+  height: 965px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1427px;
+}
+
+.you-are-all-set .overlap-group3 {
+  height: 46px;
+  left: 1072px;
+  position: absolute;
+  top: 8px;
+  width: 148px;
+}
+
+.you-are-all-set .rectangle-5 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.you-are-all-set .services {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 139px;
+}
+
+.you-are-all-set .overlap-group1 {
+  height: 965px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1284px;
+}
+
+.you-are-all-set .tunnel-1 {
+  height: 298px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 357px;
+}
+
+.you-are-all-set .just-in-case {
+  -webkit-text-stroke: 1px var(--black);
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 115px;
+  width: 340px;
+}
+
+.you-are-all-set .normalizing-we-all-die {
+  -webkit-text-stroke: 1px var(--black);
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 88px;
+  width: 302px;
+}
+
+.you-are-all-set .overlap-group {
+  align-items: flex-start;
+  background-color: var(--spray);
+  border-radius: 20px;
+  display: flex;
+  height: 672px;
+  left: 162px;
+  min-width: 1120px;
+  padding: 58px 195px;
+  position: absolute;
+  top: 264px;
+}
+
+.you-are-all-set .you-are-all-set-1 {
+  height: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 702px;
+}
+
+.you-are-all-set .thank-you-for-rour-p {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  height: 564px;
+  left: 441px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 401px;
+  width: 534px;
+}
+
+.you-are-all-set .rectangle-14 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 34px;
+  left: 960px;
+  position: absolute;
+  top: 855px;
+  width: 260px;
+}
+
+.you-are-all-set .continue-shoppong {
+  cursor: pointer;
+  height: 47px;
+  left: 960px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 852px;
+  width: 260px;
+}
+
+.you-are-all-set .place {
+  left: 955px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 88px;
+}
+
+.you-are-all-set .about {
+  left: 1238px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 88px;
+}
+
+.you-are-all-set .overlap-group2 {
+  height: 47px;
+  left: 1167px;
+  position: absolute;
+  top: 160px;
+  width: 260px;
+}
+
+.you-are-all-set .rectangle-15 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 260px;
+}
+
+.you-are-all-set .go-to-profile {
+  cursor: pointer;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 260px;
+}
+
+.you-are-all-set .place-1 {
+  left: 1364px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 126px;
+}
+
+.you-are-all-set .rectangle-9 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 20px;
+  height: 132px;
+  left: 1314px;
+  position: absolute;
+  top: 617px;
+  width: 10px;
+}

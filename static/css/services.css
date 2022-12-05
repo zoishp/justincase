@@ -1,0 +1,219 @@
+/* screen - plans */
+
+.plans {
+  align-items: flex-end;
+  background-color: var(--cod-gray);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 1286px;
+  padding: 10px 0;
+  width: 1512px;
+}
+
+.plans .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 38.7px;
+  min-width: 517px;
+}
+
+.plans .home {
+  height: 21px;
+  margin-bottom: 6.07px;
+  width: 77px;
+}
+
+.plans .overlap-group1 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  margin-left: 43px;
+  min-width: 137px;
+
+}
+.plans .overlap-titles
+{
+    position: absolute;
+    width: 320px;
+    height: 71px;
+    left: 112px;
+    top: 444px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.plans .services {
+  height: 22px;
+  width: 118px;
+}
+
+.plans .about {
+  height: 21px;
+  margin-bottom: 6.07px;
+  margin-left: 27px;
+  width: 83px;
+}
+
+.plans .contact {
+  height: 21px;
+  margin-bottom: 6.34px;
+  margin-left: 42px;
+  width: 108px;
+}
+
+.plans .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1121px;
+  width: 1456px;
+}
+
+.plans .overlap-group3 {
+  align-self: flex-end;
+  height: 602px;
+  position: relative;
+  width: 1396px;
+}
+
+.plans .overlap-group {
+  height: 602px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1393px;
+}
+
+.plans .tunnel-1 {
+  height: 480px;
+  left: 713px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.plans .normalizing-we-all-die {
+  height: 35px;
+  left: 949px;
+  position: absolute;
+  top: 407px;
+  width: 290px;
+}
+
+.plans .indeed-we-all-will-d {
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 219px;
+  width: 769px;
+}
+
+.plans .rectangle-11 {
+  height: 546px;
+  left: 1356px;
+  position: absolute;
+  top: 56px;
+  width: 15px;
+}
+
+.plans .just-in-case {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 400px;
+}
+
+.plans .what-we-do {
+  height: 28px;
+  left: 3px;
+  position: absolute;
+  top: 118px;
+  width: 217px;
+}
+
+.plans .services-1 {
+  height: 34px;
+  left: 547px;
+  position: absolute;
+  top: 523px;
+  width: 181px;
+}
+
+.plans .group-container {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1399px;
+}
+
+.plans .overlap-group1 {
+  cursor: pointer;
+  height: 519px;
+  width: 437px;
+}
+
+.plans .overlap-group2 {
+  height: 519px;
+  margin-left: 45px;
+  position: relative;
+  width: 437px;
+}
+.plans .servicesgroup {
+    height: 21px;
+    margin-bottom: 6.07px;
+    margin-left: 27px;
+    width: 120px;
+}
+
+.plans .rectangle-7 {
+  background-color: #444650;
+  border: 1px none;
+  border-radius: 20px;
+  height: 82px;
+  left: 56px;
+  position: absolute;
+  top: 404px;
+  width: 318px;
+}
+
+.plans .group-5 {
+  height: 519px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 437px;
+}
+
+.plans .comming-soon {
+  color: #a5a4b3;
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 82px;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 403px;
+  width: 323px;
+}
+
+.plans .group-6 {
+  height: 519px;
+  margin-left: 43px;
+  width: 437px;
+}

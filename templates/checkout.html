@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1512, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <title> Just in Case </title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/checkout.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/styleguide.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/globals.css') }}" />
+  </head>
+  <body style="margin: 0; background: #070707">
+    <input type="hidden" id="anPageName" name="page" value="basic-plan-1-3" />
+    <div class="container-center-horizontal">
+      <div class="basic-plan-1-3 screen">
+        <div class="overlap-group-container">
+          <div class="overlap-group7">
+            <div class="overlap-group4">
+              <img class="tunnel-1" src="{{ url_for('static', filename= 'img/tunnel-1-3@2x.png') }}" alt="tunnel 1" />
+              <div class="just-in-case inter-bold-white-58px">Just in case</div>
+              <div class="normalizing-we-all-die inter-light-white-28px">Normalizing we all die</div>
+              <div class="rectangle-6">
+              <div class="basic1 valign-text-middle inter-bold-white-38px">Basic</div>
+              
+              <form class="basic1form" method="POST" action:"{{ url_for('checkout') }}" enctype="multipart/form-data">
+                  <label for="fname" class= "basic1form inter-bold-white-18px">  1. Tell us who you are? </label>
+               <input type="text" id="fname" name="fname" placeholder="Full name" required>
+               <input type="text" id="email" name="email" placeholder="Email" required>
+                   
+               <label for="fname"> We will verify your phone number </label>
+               <input type="text" id="pnum" name="pnum" placeholder="Phone number" required>
+                   <br>
+               <label for="service" class= "basic1form inter-bold-white-18px"> 2. Plan a service for your loved ones</label>
+               <br> <br> Shipping Information
+               <input type="text" id="addy" name="addy" placeholder="Recipient Address" required>
+               <input type="text" id="rfname" name="rfname" placeholder="Recipient Full Name" required>
+                <input type="text" id="remail" name="remail" placeholder="Recipient Email Address" required>
+                    <br>
+               <label for="file" class= "basic1form inter-bold-white-18px"> 3. Upload the letter and your Government ID </label>
+               <br>
+               <br>
+               <input type="file" id="letter" name="Letter" required>
+                   <br>
+               <input type="file" id="oid" name="Official ID" required>
+                   <br>
+                   <br>
+                <label for="ddate" class= "basic1form inter-bold-white-18px"> 4. Enter date to deliver (MM/DD):  </label>
+                  <input type="number" id="month" name="month" min="1" max="12" required>
+                  <input type="number" id="day" name="day" min="1" max="31" required>
+                      <br>
+                      <br>
+                      <label class= "basic1form inter-bold-white-18px"> 5. Agree on our Terms and Conditions </label>
+                      <br>
+                      I agree my letter will be read and my information could be shared with authorities. I hereby grant “Just in Case” the authority to share my contact and alert authorities if they notice I could harm myself.
+                      <br>
+                       <label class="switch">
+                         <input type="checkbox" required>
+                         <span class="slider round"></span>
+                       </label>
+                       <br>
+               <input type="submit" value="Upload">
+             </form>
+              
+              </div>
+              
+              
+            <a href="index.html"><div class="place inter-bold-white-28px">Home</div></a>
+            <a href="about.html"><div class="about inter-bold-white-28px">About</div></a>
+            <a href="contact.html"><div class="place-1 inter-bold-white-28px">Contact</div></a>
+            <div class="overlap-group3">
+                <div class="rectangle-5"></div>
+                <a href="services.html"><div class="services inter-bold-black-28px">Services</div></a>
+          </div>
+            
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,224 @@
+/* screen - modal-oops */
+
+.modal-oops {
+  align-items: flex-end;
+  background-color: var(--cod-gray);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 1286px;
+  padding: 10px 0;
+  width: 1512px;
+}
+
+.modal-oops .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 38.7px;
+  min-width: 517px;
+}
+
+.modal-oops .home {
+  height: 21px;
+  margin-bottom: 6.07px;
+  width: 77px;
+}
+
+.modal-oops .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-12@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 38px;
+  min-width: 137px;
+  padding: 10.5px 9.0px;
+}
+
+.modal-oops .services {
+  height: 22px;
+  width: 118px;
+}
+
+.modal-oops .about {
+  height: 21px;
+  margin-bottom: 6.07px;
+  margin-left: 32px;
+  width: 83px;
+}
+
+.modal-oops .contact {
+  cursor: pointer;
+  height: 21px;
+  margin-bottom: 6.34px;
+  margin-left: 42px;
+  width: 108px;
+}
+
+.modal-oops .overlap-group2 {
+  height: 1121px;
+  position: relative;
+  width: 1456px;
+}
+
+.modal-oops .overlap-group1 {
+  height: 1121px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1456px;
+}
+
+.modal-oops .rectangle-7 {
+  background-color: #444650;
+  border: 1px none;
+  border-radius: 20px;
+  height: 82px;
+  left: 538px;
+  position: absolute;
+  top: 1006px;
+  width: 318px;
+}
+
+.modal-oops .tunnel-1 {
+  height: 480px;
+  left: 776px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.modal-oops .normalizing-we-all-die {
+  height: 35px;
+  left: 1012px;
+  position: absolute;
+  top: 407px;
+  width: 290px;
+}
+
+.modal-oops .indeed-we-all-will-d {
+  height: 163px;
+  left: 63px;
+  position: absolute;
+  top: 219px;
+  width: 769px;
+}
+
+.modal-oops .group-4 {
+  height: 519px;
+  left: 0;
+  position: absolute;
+  top: 602px;
+  width: 437px;
+}
+
+.modal-oops .group-5 {
+  height: 519px;
+  left: 482px;
+  position: absolute;
+  top: 602px;
+  width: 437px;
+}
+
+.modal-oops .group-6 {
+  height: 519px;
+  left: 962px;
+  position: absolute;
+  top: 602px;
+  width: 437px;
+}
+
+.modal-oops .services-1 {
+  height: 34px;
+  left: 608px;
+  position: absolute;
+  top: 523px;
+  width: 181px;
+}
+
+.modal-oops .rectangle-11 {
+  height: 546px;
+  left: 1419px;
+  position: absolute;
+  top: 56px;
+  width: 15px;
+}
+
+.modal-oops .comming-soon {
+  color: #a5a4b3;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 76px;
+  left: 561px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1008px;
+  width: 274px;
+}
+
+.modal-oops .rectangle-12 {
+  height: 772px;
+  left: 253px;
+  position: absolute;
+  top: 189px;
+  width: 887px;
+}
+
+.modal-oops .tunnel-2 {
+  height: 562px;
+  left: 264px;
+  object-fit: cover;
+  position: absolute;
+  top: 189px;
+  width: 873px;
+}
+
+.modal-oops .oops-this-plan-is {
+  left: 447px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 621px;
+  width: 515px;
+}
+
+.modal-oops .span1 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+}
+
+.modal-oops .return-to-plans {
+  cursor: pointer;
+  left: 482px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 826px;
+  width: 419px;
+}
+
+.modal-oops .just-in-case {
+  height: 61px;
+  left: 60px;
+  position: absolute;
+  top: 5px;
+  width: 400px;
+}
+
+.modal-oops .what-we-do {
+  height: 28px;
+  left: 63px;
+  position: absolute;
+  top: 118px;
+  width: 217px;
+}
